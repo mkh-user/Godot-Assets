@@ -471,3 +471,7 @@ static func calculate_change_percent(from: Variant, to: Variant) -> percent:
 				to = 0
 	var changes = from - to
 	return calculate_percent(changes, from)
+
+# internal converters
+func _to_string() -> String:
+	return self.get_percent()
