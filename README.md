@@ -3,7 +3,7 @@
 Asset library for Godot engine
 
 ---
-Hi, I'm hosting and sharing my assets for Godot engine here, you can see the content list (or it's recommended to check out the files):
+Hi, I'm hosting and sharing my assets for Godot engine here, you can see the content list:
 
 ## Resources
 ### Classes
