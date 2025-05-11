@@ -7,15 +7,14 @@ Hi, I'm hosting and sharing my assets for Godot engine here, you can see the con
 
 ## Resources
 ### Classes
-- Percent (Moved, See Plugins > Libraries > Elementum)
-- See classes in Plugins > Libraries > Elementum
+- All classes moved to the [Elementum project](https://github.com/mkh-user/Elementum)
 ### Nodes
-- See nodes in Plugins > Libraries > Elementum
+- All nodes moved to the [Elementum project](https://github.com/mkh-user/Elementum)
 
 ## Plugins
 ### Libraies
 - [SLib (Best library for readability and QoL)](https://gitub.com/subject-team/slib)
-- See libraries in Plugins > Libraries > Elementum
+- You can find some libraries in the [Elementum project](https://github.com/mkh-user/Elementum)
 ### Progress Savers
 - [GProgress (Best for save game states and multi user support)](https://github.com/mkh-user/gprogress)
 ### Extra Abilities Managers
