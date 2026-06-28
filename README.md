@@ -1,3 +1,10 @@
+> [!Warning]
+> **Archived:** This repository is archived and may be removed later.
+>
+> I moved the content of this to [Elementum project](https://github.com/mkh-user/Elementum) (It's the interface, for sources see [elementum-host](https://github.com/mkh-user/ElementumHost)), where anyone can browse and install them and many other tools directly inside Godot. While I will keep this repository public for some months to keep references valid, I will remove it to clean up my GitHub account. Please download items you want and serve them elsewhere if you want them in the cloud. Thanks for looking at this repository!
+>
+> [Please see my GitHub profile for other projects that are maintained.](https://github.com/mkh-user)
+
 # Godot-Assets
 
 Asset library for Godot engine
